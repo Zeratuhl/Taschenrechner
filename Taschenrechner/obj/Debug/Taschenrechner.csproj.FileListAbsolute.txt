@@ -1,0 +1,197 @@
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.Cache
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\schulung\Documents\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+Z:\_Teilnehmer\Wolfrum_René\Visual Studio 2017\Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.Cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.g.cs
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.baml
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.g.cs
+C:\Users\Zerat\Desktop\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.Cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.g.cs
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.baml
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Zeratuhl\Desktop\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.g.cs
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.g.cs
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.g.cs
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.baml
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.baml
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.baml
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zerat\Desktop\C# Projekte\Taschenrechner neu\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.g.cs
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.g.cs
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.g.cs
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.baml
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.baml
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.baml
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Desktop\Doks und Projekte\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\CalcBinding.dll
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.g.cs
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.g.cs
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.g.cs
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtProgrammierung.baml
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtStandard.baml
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\XAML\AnsichtWissenschaftlich.baml
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe.manifest
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.application
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CopyComplete
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Zeratuhl\Documents\Visual Studio 2017\Projects\Projekt Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
