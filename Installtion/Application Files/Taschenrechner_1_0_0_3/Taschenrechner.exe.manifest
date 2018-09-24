@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Taschenrechner.exe" version="1.0.0.3" publicKeyToken="4ca1e5ca9b71e882" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Wineass-Ios7-Redesign-Calculator.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Taschenrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Taschenrechner.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Ebene der Windows-Benutzerkontensteuerung ändern möchten, ersetzen Sie den 
+          Knoten "requestedExecutionLevel" durch eine der folgenden Angaben.
+
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel level="highestAvailable" uiAccess="false" />
+
+         Wenn Sie Datei- und Registrierungsvirtualisierung für Abwärtskompatibilität 
+         verwenden möchten, löschen Sie den Knoten "requestedExecutionLevel".
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CalcBinding.dll" size="34816">
+      <assemblyIdentity name="CalcBinding" version="2.3.0.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0VXAz7C3x1GmuPez5c6iuWPWq28qVTdvXShTlxAP6U4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DynamicExpresso.Core.dll" size="60416">
+      <assemblyIdentity name="DynamicExpresso.Core" version="1.3.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gzXmRV2tJJw7SEfV/bV+DpFTkb1L24uUw7iKvCCAh5s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Taschenrechner.exe" size="424464">
+      <assemblyIdentity name="Taschenrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eJaxPMZ5RoFg7ke9zVN39/aF01/5CourgcdeaA1+PXA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Taschenrechner.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wineass-Ios7-Redesign-Calculator.ico" size="167666">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bf9jG4II3nAtZ6Bu5TXxmEyDbQFfR0/rRSFVwGbsfRM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ANDRIOD-1G43532\Zeratuhl" issuerKeyHash="b07df31d45df267d0db28914153cbb2849efc332" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>TdOFv+XUP+tlYHVAJsIsWjXth2vB8im2D4V8E6ReCiM=</DigestValue></Reference></SignedInfo><SignatureValue>HOOG9bYUgOWFd7rVkAXg9fgDrZN4ANGPwIMnhgDwljHI/YSV3ktVUULu/wAzZkf9MyxFTgmPmcbyROTeRWG/sujwAk33nGap9WUqGLYjjU6oIsIexh0a5Nga93lbUMH7gYBnHaSiGRA26M3y1+zZ8nStSfKkxhltGRfQRrcCe7M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wa2p1AMEQvDPVXUQEKBdthoK7qY+XAH+iDZAhWzUavmsbTW6BOx3sX8dYpsTchaQhpTLMNVzyNp7vJr6Ks8AVvDdI8hu2pyyRzVBzIrHgXifp59nGZG0SLOObcn7qlFAygoudOSys+ohNs6dNBfNi5mbHBdVQ1oX7hBHvQ782ic=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="230a5ea4137c850fb629f2c16b87ed355a2cc22640756065eb3fd4e5bf85d34d" Description="" Url=""><as:assemblyIdentity name="Taschenrechner.exe" version="1.0.0.3" publicKeyToken="4ca1e5ca9b71e882" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ANDRIOD-1G43532\Zeratuhl</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>U8AMUoCOXnFQBqfABk01WU/HYTXoD9sr/68WUg4KoIc=</DigestValue></Reference></SignedInfo><SignatureValue>J79H5rbY1iIh5QfSiPAgDXVs/uCYuts3jsNy3aNzIOlmq95hmMIgwYrdx/ImYnZD/fMQVxIE/pz0E4mxCyamTjUqPR7RM69Rxq9iK4JY9BnqiCNax79oObZFINrkcDKV8j5iBaXcXYz1HYZZudcRMvGCJa6v1+dXZqVhT21NSz4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wa2p1AMEQvDPVXUQEKBdthoK7qY+XAH+iDZAhWzUavmsbTW6BOx3sX8dYpsTchaQhpTLMNVzyNp7vJr6Ks8AVvDdI8hu2pyyRzVBzIrHgXifp59nGZG0SLOObcn7qlFAygoudOSys+ohNs6dNBfNi5mbHBdVQ1oX7hBHvQ782ic=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQHvx3tP+ijo1IZP4DdU3oKzANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAAQQBOAEQAUgBJAE8ARAAtADEARwA0ADMANQAzADIAXABaAGUAcgBhAHQAdQBoAGwwHhcNMTgwMzI1MTMzMjA0WhcNMTkwMzI1MTkzMjA0WjA7MTkwNwYDVQQDHjAAQQBOAEQAUgBJAE8ARAAtADEARwA0ADMANQAzADIAXABaAGUAcgBhAHQAdQBoAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMGtqdQDBELwz1V1EBCgXbYaCu6mPlwB/og2QIVs1Gr5rG01ugTsd7F/HWKbE3IWkIaUyzDVc8jae7ya+irPAFbw3SPIbtqcskc1QcyKx4F4n6efZxmRtEizjm3J+6pRQMoKLnTksrPqITbOnTQXzYuZmxwXVUNaF+4QR70O/NonAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAS7roHVkhdlh1ISfmN7+3Js17Rw1jsiimOUFYGHzWAybporLA4QlP05Sk+dgxj+awM0Z3DwKtkeiLzLkRVU+kCPTELQ4RjSgRro8bHtHw5G33blbiPojj7zkAjPmmLRJiuAnH3WsLx/N3UonkrvbGIl+LoE3WI6QXyC0sIoRd+HQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
